@@ -1,0 +1,16 @@
+vanna
+streamlit
+streamlit_code_editor
+python-dotenv
+cloud-sql-python-connector
+vanna[qdrant]
+vanna[gemini]
+vanna[snowflake]
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2
+pg8000
+vertexai
+qdrant_client
+pandas
+sqlalchemy
